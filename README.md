@@ -1,84 +1,110 @@
-👋 Hi, I’m Phillip (@SupportPhillip)
+# Phillip Bere – IT Support & Identity Operations Portfolio
 
-I’m an IT Operations & Support professional based in South Africa, with over 10 years of experience spanning customer support, technical support, and IT operations in high-pressure, customer-facing environments.
+IT Support Specialist | Service Desk Analyst | IAM (Identity & Access Management) Enthusiast  
+Microsoft 365 | Active Directory | Intune | ServiceNow | ITIL | CompTIA A+ (In Progress)
 
-My background sits at the intersection of technology, service delivery, and operations. I currently work in a dispatch and IT support coordination role, supporting multiple business units and branches, troubleshooting systems, managing escalations, and acting as a liaison between end users and technical teams.
+---
 
-🔧 What I work with
+## 👋 About Me
 
-IT Support & Operations
+I am an IT Support and Operations professional with hands-on experience supporting multi-branch environments, resolving technical incidents, and maintaining system stability across distributed users.
 
-Windows & macOS device setup and troubleshooting
+My focus is on delivering reliable first-line support while building strong capabilities in **Identity & Access Management (IAM)**, endpoint administration, and modern workplace technologies.
 
-User onboarding/offboarding, account provisioning, password resets
+I enjoy working in structured environments where troubleshooting, process improvement, and user support come together to reduce downtime and improve service delivery.
 
-Remote support (AnyDesk, TeamViewer, RDP)
+---
 
-Printer support (office & thermal POS)
+## 🧠 Core Focus Areas
 
-Ticket triage, escalation, and coordination
+- IT Help Desk & Service Desk Support  
+- Identity & Access Management (IAM)  
+- Microsoft 365 Administration  
+- Active Directory User Management  
+- Endpoint Management (Intune / SCCM Concepts)  
+- Incident Management & Ticketing Systems  
+- Remote Troubleshooting & Support  
+- User Onboarding & Offboarding  
+- IT Documentation & Reporting  
 
-SLA awareness and service prioritisation
+---
 
-Systems & Tools
+## 🛠️ Tools & Technologies
 
-Microsoft 365, hosted email domains
+### Microsoft Ecosystem
+- Microsoft 365 (Exchange, Teams, SharePoint)
+- Microsoft Entra ID (Azure Active Directory)
+- Microsoft Intune (MDM/MAM)
+- Windows Server 2022
 
-VPN support (AWS VPN profiles, site access controls)
+### IT Support Tools
+- ServiceNow (PDI Lab Environment)
+- Jira / Trello / ClickUp
+- Remote Desktop Tools (TeamViewer, AnyDesk, RDP)
 
-Ticketing & task platforms (service desks, Asana-style workflows)
+### Networking & Systems
+- DNS, DHCP, TCP/IP
+- VPN Troubleshooting
+- Windows OS Administration
+- Basic Linux Exposure
 
-Security & Awareness
+### Endpoint & Deployment Concepts
+- SCCM (Conceptual Understanding)
+- Windows Autopilot (Lab Work)
+- OS Imaging & Deployment Basics
+- Patch Management Concepts
 
-Cybersecurity fundamentals
+---
 
-Network Defence Essentials (EC-Council – in progress)
+## 🧪 Projects
 
-🌱 Learning & growth
+### 🔐 Identity & Access Management Lab (Active Directory)
+Built and configured a simulated enterprise domain environment using Windows Server 2022.
 
-I’m actively transitioning deeper into IT support, service operations, and cybersecurity-aware environments.
+- Created and managed users, groups, and Organizational Units (OUs)
+- Configured Group Policy Objects (GPOs) for security and access control
+- Implemented password policies and restricted system access
+- Simulated user provisioning and deprovisioning workflows
+- Used PowerShell for account management automation
 
-Completed:
+---
 
-Google IT Support Professional Certificate
+### 🖥️ IT Service Desk Simulation Lab
+Created a service desk environment to simulate real-world IT support operations.
 
-Google Digital Skills: User Experience
+- Managed incident tickets across hardware, software, and network issues
+- Simulated onboarding and access request workflows
+- Practiced escalation procedures and SLA prioritisation
+- Documented troubleshooting steps and resolutions
 
-Experience:
+Tools: ServiceNow (PDI), Spiceworks
 
-UX/UI Design Internship – Alfido Tech
+---
 
-Designed a mobile app sign-up flow
+### ⚙️ IT Operations Workflow Automation Project
+Designed a structured IT operations workflow system for task and incident management.
 
-Built responsive email templates
+- Built multi-platform workflow using Jira, Trello, and ClickUp
+- Simulated IT operations, support, and administrative collaboration
+- Designed ticket categorisation and escalation structures
+- Implemented task automation and reporting dashboards
 
-Supported landing page design that improved conversion metrics
+---
 
-Currently focused on strengthening:
+## 🎯 Career Goals
 
-ITIL-aligned service delivery
+I am currently developing toward roles in:
 
-Incident coordination in MSP-style environments
+- IT Support / Service Desk Analyst  
+- IAM Analyst / Identity Administrator  
+- Endpoint Support Specialist  
+- IT Operations Analyst  
 
-Security-first support practices
+My long-term focus is to specialise in Identity & Access Management and enterprise IT operations.
 
-🤝 What I’m open to
+---
 
-IT Support / Helpdesk / Service Operations roles
+## 📫 Contact
 
-MSP environments with structured workflows and SLAs
-
-Collaboration on practical IT, support tooling, or user-focused projects
-
-I enjoy roles where clarity, ownership, and calm problem-solving actually matter.
-
-📫 Let’s connect
-
-LinkedIn: (add your LinkedIn URL here)
-
-Email: phillipbere009@gmail.com
-
-⚡ Fun fact
-
-I taught myself Figma from zero in under a month to deliver a real client-facing UX project — and I bring that same learning speed to technical environments.
---->
+- LinkedIn: www.linkedin.com/in/phillip-bere-b42b3a82  
+- Location: Durban, South Africa  
